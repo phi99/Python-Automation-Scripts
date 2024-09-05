@@ -3,8 +3,6 @@ import testmod
 import multiprocessing as mp
 from datetime import datetime
 
-__authors__=["the dude"]
-__date__='March 2019'
 __description__ = 'Simple auto connect script'
 
 parser=argparse.ArgumentParser(
