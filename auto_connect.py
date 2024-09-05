@@ -2,8 +2,8 @@ import argparse
 import testmod
 from datetime import datetime
 
-__authors__=["the dude"]
-__date__='March 2019'
+__authors__=[""]
+__date__=''
 __description__ = 'Simple auto connect script'
 
 parser=argparse.ArgumentParser(
